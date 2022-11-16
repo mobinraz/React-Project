@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ReactJs/emoji-search/static/css/main.12387b57.css",
-    "main.js": "/ReactJs/emoji-search/static/js/main.d1021ed0.js",
-    "static/js/787.93e9884c.chunk.js": "/ReactJs/emoji-search/static/js/787.93e9884c.chunk.js",
-    "index.html": "/ReactJs/emoji-search/index.html",
-    "main.12387b57.css.map": "/ReactJs/emoji-search/static/css/main.12387b57.css.map",
-    "main.d1021ed0.js.map": "/ReactJs/emoji-search/static/js/main.d1021ed0.js.map",
-    "787.93e9884c.chunk.js.map": "/ReactJs/emoji-search/static/js/787.93e9884c.chunk.js.map"
+    "main.css": "/React-Project/static/css/main.12387b57.css",
+    "main.js": "/React-Project/static/js/main.abbeb046.js",
+    "static/js/787.93e9884c.chunk.js": "/React-Project/static/js/787.93e9884c.chunk.js",
+    "index.html": "/React-Project/index.html",
+    "main.12387b57.css.map": "/React-Project/static/css/main.12387b57.css.map",
+    "main.abbeb046.js.map": "/React-Project/static/js/main.abbeb046.js.map",
+    "787.93e9884c.chunk.js.map": "/React-Project/static/js/787.93e9884c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12387b57.css",
-    "static/js/main.d1021ed0.js"
+    "static/js/main.abbeb046.js"
   ]
 }
